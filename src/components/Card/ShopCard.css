@@ -1,0 +1,27 @@
+.shopcard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px  grey;
+    width: 350px;
+    height: 450px;
+    background-color: white;
+    box-sizing: border-box;
+    font-size: 10px;
+    overflow: visible;
+    cursor: pointer;
+}
+
+.price {
+    font-size: 20px;
+}
+
+.view {
+    margin-left: 20px;
+    font-size: 14px;
+    cursor: pointer;
+}
