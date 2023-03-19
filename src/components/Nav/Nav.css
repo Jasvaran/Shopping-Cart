@@ -22,4 +22,14 @@ nav {
 
 a {
     text-decoration: none;
+    color: black;
+
+}
+
+.cart-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
 }

@@ -1,6 +1,8 @@
 import React from "react";
+import { useState } from "react";
 
-function Cart() {
+function Cart(props) {
+
 
     return (
         <div className="cart">
